@@ -1,4 +1,4 @@
-<h1 align="center">🤵 Hi , I'm Thisara Jayaweera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Thisara Jayaweera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Self%20Learner%20GCricket%20Lover;&center=true&width=300&height=50">
@@ -17,7 +17,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 💻 Programming languages
 
 <p align="left"> 
    &emsp;
@@ -46,7 +46,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   </a> 
 </p>
 
-### 👉 Web Development
+### 💻 Web Development
 <p align="left"> 
   &emsp; 
   <a href="https://angular.io/cli" target="_blank"> 
@@ -78,7 +78,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   </a> 
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 💻 Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql"></a>
@@ -93,7 +93,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
  </p>
   
 
- ### 👉 Software & Tools
+ ### 💻 Software & Tools
  
 <p>
   &emsp;
@@ -107,8 +107,15 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="Slack" src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
 </p>
-
+<!-- <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/> -->
 <br/>
 
 ## 🐱 Github Stats (Expand to View) 
