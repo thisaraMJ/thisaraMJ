@@ -6,7 +6,7 @@
 
 <hr/>
 
-<h4 align="center">I am Thisara Jayaweera who is an undergraduate student in Computer Science Bsc(Hons) at University of 
+<h4 align="center">🤵 I am Thisara Jayaweera who is an undergraduate student in Computer Science Bsc(Hons) at University of 
 Colombo School of Computing. I am enthusiastic, motivated, and adaptable individual with outstanding collaboration, communication, and leadership abilities. Adopt fast to new technologies and environments within a very short period of time. Interested in machine learning, cloud technologies and software engineering.</h4>
 <br>
 
@@ -138,7 +138,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 
 <br/>
 
-## 🙋‍♀️ Connect With Me
+## 🤵 Connect With Me
 <p align="center">
   <a href="https://medium.com/@madushantjg"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="medium"/></a>
  	<a href="madushantjg@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
