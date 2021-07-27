@@ -49,6 +49,14 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
+  <a href="https://angular.io/cli" target="_blank"> 
+   <img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=angular">
+  </a> 
+  &emsp; 
+  <a href="https://reactjs.org/" target="_blank"> 
+   <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat&logo=react">
+  </a> 
+  &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
