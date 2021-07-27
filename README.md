@@ -62,7 +62,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   </a>
   &emsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-    <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-%23327FC7.svg?style=flat&llogo=github&logoColor=white"/>
+    <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-%236DD643.svg?style=flat&llogo=github&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://jquery.com/" target="_blank"> 
