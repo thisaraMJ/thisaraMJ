@@ -116,11 +116,9 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/> -->
 <br/>
 
-## 🐱 Github Stats (Expand to View) 
+## 🐱 Github Stats 
 
-
-<!-- <details>  -->
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <b>💻 GitHub Profile Stats</b>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Thisara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thisaraMJ&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -130,16 +128,12 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-<!-- </details> -->
 
-
-<!-- <details> -->
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/thisaraMJ"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thisaraMJ&custom_title=Thisara%20Jayaweera's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-<!-- </details> -->
 
 <br/>
 
