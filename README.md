@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Thisara Jayaweera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Self%20learner%20&center=true&width=300&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Self%20Learner%20&center=true&width=300&height=50">
 </p>
 
 <hr/>
@@ -12,7 +12,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisaraMJ&theme=algolia" alt="thisaraMJ"  /></p>
 
 
 ## 🛠️ My Skills
