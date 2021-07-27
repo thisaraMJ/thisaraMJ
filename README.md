@@ -120,7 +120,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Thisara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thisaraMJ&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
+<br/><br/>
   &nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisaraMJ&show_icons=true&locale=en&layout=compact&theme=algolia" alt="thisaraMJ" height="192px"/>
   <br/>
