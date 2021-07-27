@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Thisara Jayaweera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Self%20Learner%20&center=true&width=300&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Self%20Learner%20GCricket%20Lover;&center=true&width=300&height=50">
 </p>
 
 <hr/>
@@ -46,7 +46,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   </a> 
 </p>
 
-### 👉 Frontend Development
+### 👉 Web Development
 <p align="left"> 
   &emsp; 
   <a href="https://angular.io/cli" target="_blank"> 
@@ -55,7 +55,15 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   &emsp; 
   <a href="https://reactjs.org/" target="_blank"> 
    <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat&logo=react">
-  </a> 
+  </a>
+  &emsp;
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js"/>
+  </a>
+  &emsp;
+  <a href="https://jquery.com/" target="_blank"> 
+    <img alt="Jquery" src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery"/>
+  </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -67,29 +75,13 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Backend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql"></a>
   &emsp;
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb"/></a>
   &emsp;
@@ -146,7 +138,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Connect With Me
 <p align="center">
   <a href="https://medium.com/@madushantjg"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="medium"/></a>
  	<a href="madushantjg@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
