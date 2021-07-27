@@ -7,7 +7,7 @@
 <hr/>
 
 <h4 align="center">I am Thisara Jayaweera who is an undergraduate student in Computer Science Bsc(Hons) at University of 
-Colombo School of Computing. I am enthusiastic, motivated, and adaptable individual with outstanding collaboration, communication, and leadership abilities.</h4>
+Colombo School of Computing. I am enthusiastic, motivated, and adaptable individual with outstanding collaboration, communication, and leadership abilities. Adopt fast to new technologies and environments within a very short period of time. Interested in machine learning, cloud technologies and software engineering.</h4>
 <br>
 
 
@@ -135,6 +135,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   <a href="https://medium.com/@madushantjg"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="medium"/></a>
  	<a href="madushantjg@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="http://www.linkedin.com/in/thisara-jayaweera"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://stackoverflow.com/users/14050372/thisara-jayaweera?tab=profile"><img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="StackOverflow"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100009410706831"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/thisara_mj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
 </p>
