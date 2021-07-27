@@ -119,7 +119,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 ## 🐱 Github Stats (Expand to View) 
 
 
-<details> 
+<!-- <details>  -->
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -130,16 +130,16 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
+<!-- </details> -->
 
 
-<details>
+<!-- <details> -->
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/thisaraMJ"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thisaraMJ&custom_title=Thisara%20Jayaweera's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-</details>
+<!-- </details> -->
 
 <br/>
 
