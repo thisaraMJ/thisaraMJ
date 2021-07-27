@@ -134,14 +134,10 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   <a href="https://medium.com/@madushantjg"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="medium"/></a>
-	
-	<a href="madushantjg@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	
+ 	<a href="madushantjg@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="http://www.linkedin.com/in/thisara-jayaweera"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
 	<a href="https://www.facebook.com/profile.php?id=100009410706831"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
 </p>
 
 <hr/>
