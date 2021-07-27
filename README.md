@@ -114,7 +114,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisaraMJ&show_icons=true&locale=en&layout=compact&theme=algolia" alt="thisaraMJ" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -124,7 +124,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/thisaraMJ"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thisaraMJ&custom_title=Thisara%20Jayaweera's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -137,7 +137,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
  	<a href="madushantjg@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="http://www.linkedin.com/in/thisara-jayaweera"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100009410706831"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
+	<a href="https://www.instagram.com/thisara_mj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
 </p>
 
 <hr/>
