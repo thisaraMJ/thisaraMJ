@@ -123,7 +123,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 <br/><br/>
   &nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisaraMJ&show_icons=true&locale=en&layout=compact&theme=algolia" alt="thisaraMJ" height="192px"/>
-  <br/>
+  <br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
