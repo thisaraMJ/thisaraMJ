@@ -111,8 +111,6 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   &emsp;
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
 </p>
 <!-- <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/> -->
