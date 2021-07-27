@@ -112,8 +112,6 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"></a>
   &emsp;
 </p>
-<!-- <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/> -->
 <br/>
 
 ## 🐱 Github Stats 
@@ -130,7 +128,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
   </p>
 
  <b>⚡ Recent GitHub Activity</b>
-  <br/>
+  <br/><br/>
    <a href="https://github.com/thisaraMJ"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thisaraMJ&custom_title=Thisara%20Jayaweera's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
