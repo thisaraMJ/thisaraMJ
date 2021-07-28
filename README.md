@@ -12,7 +12,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 
 
 ## 🔥 Streak Stats
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisaraMJ&theme=algolia" alt="thisaraMJ"  /></p> -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisaraMJ&theme=algolia" alt="thisaraMJ"  /></p>
 
 
 ## 🛠️ My Skills
