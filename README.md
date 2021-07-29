@@ -118,7 +118,7 @@ Colombo School of Computing. I am enthusiastic, motivated, and adaptable individ
 </p>
 <br/>
 
-## 🐱 Github Stats 
+## 🐱 My Github Stats 
 
   <b>⚡ GitHub Profile Stats</b>
   <br/>
