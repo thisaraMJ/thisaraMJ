@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Thisara Jayaweera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Self%20Learner%20GCricket%20Lover;&center=true&width=300&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Self%20Learner;Cricket%20Lover;&center=true&width=300&height=50">
 </p>
 
 <hr/>
